@@ -1,0 +1,8 @@
+entity type Todo mixes SeedData {
+  customerProject: !string
+  owner: !string
+  dueDate: !datetime
+  status: !string enum('NotStarted','InProgress','Blocked','Done') = 'NotStarted'
+
+  projectRollup: function(): [json] js
+}

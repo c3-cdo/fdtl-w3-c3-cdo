@@ -1,0 +1,7 @@
+{
+  "author": "Catherine Delgado",
+  "name": "customerTodos",
+  "description": "Tracks to-dos per customer project with owner and deadline",
+  "dependencies": {},
+  "version": "1.0.0"
+}

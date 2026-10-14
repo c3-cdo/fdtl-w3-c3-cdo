@@ -1,0 +1,12 @@
+[
+  { "id": "seed_todo_acme_kickoff", "name": "Schedule kickoff call", "customerProject": "Acme Onboarding", "owner": "Priya Shah", "dueDate": "2026-09-18T00:00:00.000Z", "status": "Done" },
+  { "id": "seed_todo_acme_sso", "name": "Configure SSO", "customerProject": "Acme Onboarding", "owner": "Priya Shah", "dueDate": "2026-10-02T00:00:00.000Z", "status": "InProgress" },
+  { "id": "seed_todo_acme_training", "name": "Run admin training", "customerProject": "Acme Onboarding", "owner": "Marcus Lee", "dueDate": "2026-11-05T00:00:00.000Z", "status": "NotStarted" },
+  { "id": "seed_todo_acme_contract", "name": "Countersign contract", "customerProject": "Acme Onboarding", "owner": "Dana Ortiz", "dueDate": "2026-09-25T00:00:00.000Z", "status": "Blocked" },
+  { "id": "seed_todo_globex_inventory", "name": "Inventory legacy systems", "customerProject": "Globex Migration", "owner": "Marcus Lee", "dueDate": "2026-09-30T00:00:00.000Z", "status": "Done" },
+  { "id": "seed_todo_globex_mapping", "name": "Finalize data mapping", "customerProject": "Globex Migration", "owner": "Dana Ortiz", "dueDate": "2026-10-08T00:00:00.000Z", "status": "InProgress" },
+  { "id": "seed_todo_globex_cutover", "name": "Plan cutover weekend", "customerProject": "Globex Migration", "owner": "Marcus Lee", "dueDate": "2026-11-20T00:00:00.000Z", "status": "NotStarted" },
+  { "id": "seed_todo_initech_quote", "name": "Send renewal quote", "customerProject": "Initech Renewal", "owner": "Priya Shah", "dueDate": "2026-10-01T00:00:00.000Z", "status": "NotStarted" },
+  { "id": "seed_todo_initech_review", "name": "Hold executive review", "customerProject": "Initech Renewal", "owner": "Sam Okafor", "dueDate": "2026-10-30T00:00:00.000Z", "status": "InProgress" },
+  { "id": "seed_todo_initech_legal", "name": "Resolve legal redlines", "customerProject": "Initech Renewal", "owner": "Sam Okafor", "dueDate": "2026-12-01T00:00:00.000Z", "status": "Blocked" }
+]
